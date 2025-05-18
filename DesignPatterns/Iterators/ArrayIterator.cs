@@ -26,7 +26,7 @@
         }
         public void Insert(IGlyph glyph)
         {
-            _children.Insert(_index, glyph);
+            _children.Insert(_index+1, glyph);
         }
     }
 }
