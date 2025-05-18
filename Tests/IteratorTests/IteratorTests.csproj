@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DesignPatterns\Iterator.csproj" />
+    <ProjectReference Include="..\..\DesignPatterns\Iterator\Iterator.csproj" />
   </ItemGroup>
 
 </Project>
